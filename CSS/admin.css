@@ -1,0 +1,10 @@
+.form-group{
+padding:10px;
+margin:10px;
+clear:both;
+}
+.form-group input:focus{
+    outline: 0;
+    background: #eee;
+}
+
