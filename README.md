@@ -50,9 +50,3 @@ Main Tables:
 - `voting` – Records votes for each position.
 
 
-## Installation & Setup
-
-1. Install **XAMPP** (includes Apache & MySQL).
-2. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/university-voting-system.git
