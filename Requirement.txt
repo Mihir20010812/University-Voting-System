@@ -1,0 +1,27 @@
+# Environment Requirements for University Voting System
+
+# Web Server Stack
+XAMPP >= 7.4.0      # Includes Apache, PHP, and MySQL
+Apache >= 2.4.0
+PHP >= 7.4
+MySQL >= 5.7
+phpMyAdmin >= 5.0
+
+# PHP Extensions
+mysqli              # For MySQL database connection
+session             # For user login sessions
+json                # For API and data handling
+openssl             # For password encryption and HTTPS support
+
+# Frontend Tools
+HTML5
+CSS3
+JavaScript
+
+# Optional Development Tools
+Draw.io             # For diagrams
+Notepad++           # For code editing
+Word                # For documentation
+
+# Browser Compatibility
+Google Chrome / Mozilla Firefox (latest version recommended)
