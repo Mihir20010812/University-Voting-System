@@ -1,6 +1,7 @@
 # University-Voting-System
 
 A web-based application that enables university students to vote online to elect their CR/FR/FGS (Class Representative / Faculty Representative / General Secretary). The system ensures transparency, security, and convenience for both administrators and voters.
+![Uploading {6E4B68B3-42E5-4F37-A98B-B6F051FEE9D7}.png…]()
 
 
 ## Project Overview
