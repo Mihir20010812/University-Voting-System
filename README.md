@@ -49,4 +49,5 @@ Main Tables:
 - `candidate_info` – Holds candidate data.
 - `voting` – Records votes for each position.
 
+<img width="1209" height="633" alt="Screenshot (124)" src="https://github.com/user-attachments/assets/b7613458-f6c6-4c03-8c49-9d7217c5a410" />
 
